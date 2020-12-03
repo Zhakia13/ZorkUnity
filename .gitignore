@@ -1,0 +1,10 @@
+.vs/
+*bin/
+*obj/
+Zork.Unity/Logs
+Zork.Unity/Library
+Zork.Unity/Temp
+Zork.Unity/*.csproj
+Zork.Unity/*.sln
+Zork.Unity/UserSettings
+Zork.Unity/.vs/
